@@ -1,1 +1,2 @@
 This is another story to learn about github.
+These are the changes made in the new branch.
